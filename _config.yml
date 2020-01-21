@@ -1,8 +1,20 @@
-title: Chris online
-description: chris-- github pages
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
+# Site settings
+title: Christian Vogt
+description: Agile Architect
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-gems:
-  - jekyll-mentions
+# User settings
+username: Christian Vogt
+user_description: I'm a Senior Delivery Architect from Munich, Germany, currently working for Capgemini and our enterprise customers.
+user_title: Agile Architect
+email: hi@chris.ac
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'package-lock.json', 'src' , 'node_modules']
